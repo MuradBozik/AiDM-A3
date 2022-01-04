@@ -1,0 +1,4 @@
+model_name,accuracy
+LinearSVC,0.5949072782396816
+RandomForestClassifier,0.41389059390287003
+XGBClassifier,0.6648624518721054
